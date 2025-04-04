@@ -2,7 +2,7 @@
 
 **CamJam** is a React Native mobile app built for seamless group photo sharing during events. Whether you're organizing a concert, a birthday, or a last-minute beach hangout, CamJam lets you create or join a shared photo space with just an access code — no hassle, no clutter.
 
-Built as part of our **CS180** group project, CamJam is focused on **simplicity, security, and spontaneity**. Snap a moment, and it’s instantly shared with your group — and automatically cleaned up after the event is over.
+Built as part of a group, CamJam is focused on **simplicity, security, and spontaneity**. Snap a moment, and it’s instantly shared with your group — and automatically cleaned up after the event is over.
 
 ---
 
